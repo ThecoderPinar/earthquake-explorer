@@ -50,7 +50,7 @@ Check out this amazing project that delves into earthquake data analysis, visual
 📊 Visualize seismic data!
 🌏 Explore earthquake-prone regions!
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/earthquake-explorer.svg)](https://github.com/your-username/earthquake-explorer/stargazers) <!-- GitHub yıldız simgesi -->
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/earthquake-explorer.svg)](https://github.com/ThecoderPinar/earthquake-explorer/stargazers) <!-- GitHub yıldız simgesi -->
 
 
 ## License
@@ -61,5 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Feel free to explore, learn, and contribute to Earthquake Explorer. Let's make the world a safer place together!
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/earthquake-explorer.svg)](https://github.com/your-username/earthquake-explorer/stargazers) <!-- GitHub yıldız simgesi -->
 
